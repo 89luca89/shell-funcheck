@@ -1,6 +1,6 @@
 # Shell funchek
 
-Having fun, checking shell function's comments 
+Having fun, checking shell function comments
 
 ![Shell Funcheck Logo](./assets/funcheck-logo.png)
 
