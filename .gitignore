@@ -2,6 +2,8 @@
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
 shell-funcheck
+shell-funcheck-amd64*
+shell-funcheck-arm64*
 shell-funcheck.exe
 # Binaries for programs and plugins
 *.exe
